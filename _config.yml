@@ -6,7 +6,7 @@ email: pranav@maangalabs.com
 baseurl: /dvteam.org
 favicon: /favicon.png
 
-permalink: /:categories/:title
+permalink: /:categories
 
 twitter_username: pranavrajs
 
@@ -25,3 +25,7 @@ authors:
     display_name: Alexander Borzunov
     email: borzunov.alexander@gmail.com
     github: borzunov
+  phil9l:
+    display_name: Phil Bazun
+    email: Phil9lne@gmail.com
+    github: Phil9l

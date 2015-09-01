@@ -1285,7 +1285,7 @@ h6, .h6 {
 }
 
 p {
-  margin: 0 0 10.5px;
+  margin: 18px 0;
 }
 
 .lead {
@@ -5195,8 +5195,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover, .navbar-inverse .btn-link[di
 }
 
 .pager {
-  padding-left: 0;
-  margin: 21px 0;
+  padding: 0 5px;
   list-style: none;
   text-align: center;
   li {
@@ -7402,9 +7401,9 @@ label, .control-label, .help-block, .checkbox, .radio {
 }
 
 .pager {
-  font-size: 12px;
-  font-weight: 300;
-  color: #999999;
+  // font-size: 12px;
+  // font-weight: 300;
+  color: #888;
 }
 
 .list-group {

@@ -1,0 +1,53 @@
+{% assign author = site.authors[page.author] %}
+
+{% if author %}
+<div class="author_block row">
+  <div class="author-block-floated" style="float: right;">
+  <div>Author: <strong>{{ author.display_name }}</strong></div>
+  <ul>
+    {% if author.email %}
+    <li><a href="mailto:{{ author.email }}" target="_blank"><i class="fa fa-envelope"></i></a></li>
+    {% endif %}
+    {% if author.github %}
+    <li><a href="http://github.com/{{ author.github }}" target="_blank"><i class="fa fa-github"></i></a></li>
+    {% endif %}
+    {% if author.facebook %}
+    <li><a href="http://facebook.com/{{ author.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a></li>
+    {% endif %}
+    {% if author.twitter %}
+    <li><a href="http://twitter.com/{{ author.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a></li>
+    {% endif %}
+    {% if author.linkedin %}
+    <li><a href="http://in.linkedin.com/in/{{ author.linkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    {% endif %}
+  </ul>
+  </div>
+</div>
+{% endif %}
+
+{% if site.disqus_short_name and page.comments != false %}
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+       var disqus_shortname = '{{ site.disqus_short_name }}'; // required: replace example with your forum shortname
+         (function() {
+             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+             dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+             (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+         })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
+
+<ul class="pager">
+  {% if page.previous.url %}
+  <li class="previous"><a class="basic-alignment left"
+    href="{{page.previous.url | prepend: site.baseurl }}" title="Previous Post:
+    {{page.previous.title}}">&laquo; {{page.previous.title}}</a></li>
+  {% endif %}
+  <!-- <li><a href="/blog/archives">Blog Archives</a></li> -->
+  {% if page.next.url %}
+  <li class="next"><a class="basic-alignment right" href="{{ page.next.url | prepend: site.baseurl }}"
+    title="Next Post: {{page.next.title}}">{{page.next.title}}
+    &raquo;</a></li>
+  {% endif %}
+</ul>

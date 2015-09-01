@@ -11,7 +11,9 @@
           <div class="row jumb-bot">
             <div class="col-md-1"></div>
             <div class="jumbotron jumb-bot-jumbu col-md-10">
-              <img class="jumbotron-logo" src="{{ site.baseurl }}/images/dvteam_black.png" />
+              <a href="{{ site.baseurl }}/">
+                <img class="jumbotron-logo" src="{{ site.baseurl }}/images/dvteam_white.png" />
+              </a>
               <h1>{{site.title}}</h1>
               <p>{{site.description}}</p>
             </div>
@@ -21,13 +23,13 @@
     <div class="col-md-12">
         {{ content }}
     </div>
-    <div class="col-md-12 share-div">
+    <!-- <div class="col-md-12 share-div">
         <div class="col-md-1"></div>
         <div class="col-md-10">
           {% include sharer.html %}
         </div>
         <div class="col-md-1"></div>
-    </div>
+    </div> -->
     <div class="col-md-12">
     {% include footer.html %}
     </div>

@@ -26,8 +26,13 @@
   text-align: justify;
   padding: 10px;
   p {
-    font-size: 14.43px;
+    font-size: 16px;
+    font-weight: 300;
   }
+}
+
+.blog-post-preview {
+  padding: 5px 0;
 }
 
 .blog-post-header {
@@ -35,7 +40,7 @@
 }
 
 .post-header {
-    margin: 0 0 25px 10px;
+    margin: 0 0 -15px 10px;
 }
 
 .navbar {
@@ -67,8 +72,7 @@
   margin-top: 10px;
 }
 .author_block{
-  float: right;
-  padding:2%;
+  padding: 0 30px;
   p{
     line-height: 44px;
     font-size: 13px;
@@ -179,4 +183,13 @@
 
 .fa-like-image {
     margin-top: -3px;
+}
+
+.center-image {
+  margin: 0 auto;
+  display: block;
+}
+
+.button-read-more {
+  margin-top: 15px;
 }
