@@ -1,18 +1,37 @@
-<!-- Footer -->
-            <div class="row footer">
-              <div class="col-md-1"></div>
-              <div class="col-md-10">
-                  <div class="row">
-                    <div class="col-md-3">
-                      <h4>Recent Posts</h4>
-                        <ul>
-                        {% for post in site.posts limit:4 %}
-                          <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-                        {% endfor %}
-                        </ul>
-                    </div>
-                  </div>
-              </div>
-              <div class="col-md-1"></div>
-            </div>
-          <!-- End Footer -->
+<div class="col-md-12">
+  <div class="row footer">
+    <div class="col-md-1"></div>
+    <div class="col-md-10">
+      <div class="row">
+        <div class="col-md-3">
+          <h4>Recent Posts</h4>
+          <ul>
+            {% for post in site.posts limit:4 %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-1"></div>
+  </div>
+</div>
+
+<div class="col-md-12">
+  <div class="row end_footer">
+    <div class="col-md-1"></div>
+    <div class="col-md-6">
+      <p>
+        Copyright &copy; {{ site.title }} {{ site.time | date: '%Y' }}
+      </p>
+    </div>
+    <div class="col-md-4">
+      <p>
+        Built with <a href="https://jekyllrb.com/">Jekyll</a>.<br />
+        Theme based on <a href="https://github.com/pranavrajs/swift">Swift</a> by Pranav Raj S.<br />
+        Hosted on <a href="https://pages.github.com/">GitHub Pages</a>.
+      </p>
+    </div>
+    <div class="col-md-1"></div>
+  </div>
+</div>
