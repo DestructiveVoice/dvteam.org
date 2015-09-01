@@ -1,0 +1,329 @@
+Camera:  Canon PowerShot A2100 IS
+Lens:  6.4 - 38.4 mm
+Shot at 8.8 mm
+Exposure:  Auto exposure, 1/1,244 sec, f/3.5, ISO 160
+Flash:  Auto, Did not fire
+Focus:  Single, Face Detect, with a depth of field of from 65.53 m to infinity.
+AF Area Mode: Multi-point AF or AI AF
+Date:  March 25, 2014 11:17:37AM (timezone not specified)
+(4 days, 28 minutes, 11 seconds ago, assuming image timezone of US Pacific)
+File:  3,000 × 4,000 JPEG (12.0 megapixels)
+
+
+Exif Image Size  4,000 × 3,000
+Image Description  
+Make  Canon
+Camera Model Name  Canon PowerShot A2100 IS
+Orientation  Horizontal (normal)
+Modify Date  2014:03:25 11:17:37
+4 days, 28 minutes, 11 seconds ago
+Y Cb Cr Positioning  Co-sited
+Exif Version  0221
+Date/Time Original  2014:03:25 11:17:37
+4 days, 28 minutes, 11 seconds ago
+Create Date  2014:03:25 11:17:37
+4 days, 28 minutes, 11 seconds ago
+Components Configuration  Y, Cb, Cr, -
+Compressed Bits Per Pixel  3
+Shutter Speed Value  1/1244
+Aperture Value  3.51
+Exposure Compensation  0
+Max Aperture Value  3.5
+Metering Mode  Multi-segment
+Flash  Auto, Did not fire
+Focal Length  8.8 mm
+F Number  3.50
+Exposure Time  1/1250
+Maker Note Canon  (2,212 bytes binary data)
+User Comment  
+Flashpix Version  0100
+Color Space  sRGB
+Interoperability Index  R98 - DCF basic file (sRGB)
+Interoperability Version  0100
+Related Image Width  4,000
+Related Image Height  3,000
+Focal Plane X Resolution  16460.90535
+Focal Plane Y Resolution  16483.51648
+Focal Plane Resolution Unit  inches
+Sensing Method  One-chip color area
+File Source  Digital Camera
+Custom Rendered  Normal
+Exposure Mode  Auto
+White Balance  Auto
+Digital Zoom Ratio  1
+Scene Capture Type  Standard
+Compression  JPEG (old-style)
+ISO  160
+Resolution  180 pixels/inch
+Thumbnail Length  4,482
+
+
+Exposure Compensation  0
+Metering Mode  Evaluative
+Macro Mode  Normal
+Self Timer  Off
+Quality  Fine
+Canon Flash Mode  Red-eye reduction (Auto)
+Continuous Drive  Single
+Canon Camera Settings 0x0006  0
+Focus Mode  Single
+Canon Camera Settings 0x0008  -1
+Record Mode  JPEG
+Canon Image Size  Large
+Easy Mode  Full auto
+Digital Zoom  None
+Contrast  Normal
+Saturation  Normal
+Sharpness  0
+Camera ISO  Auto
+Focus Range  Auto
+AF Point  Face Detect
+Canon Exposure Mode  Easy
+Canon Camera Settings 0x0015  32,767
+Lens Type  Unknown (-1)
+Max Focal Length  38.4 mm
+Min Focal Length  6.4 mm
+Focal Units  1000/mm
+Max Aperture  3.6
+Min Aperture  10
+Flash Bits  (none)
+Canon Camera Settings 0x001e  0
+Canon Camera Settings 0x001f  0
+Focus Continuous  Continuous
+AE Setting  Normal AE
+Image Stabilization  On
+Zoom Source Width  4,000
+Zoom Target Width  4,000
+Canon Camera Settings 0x0026  0
+Spot Metering Mode  Center
+Manual Flash Output  n/a
+Canon Camera Settings 0x002b  32,767
+Canon Camera Settings 0x002c  0
+Canon Camera Settings 0x002d  0
+Canon Camera Settings 0x002f  120
+Focal Type  Zoom
+Focal Length  8.803 mm
+Focal Plane X Size  6.30 mm
+Focal Plane Y Size  4.72 mm
+Canon Flash Info  0 0 0 0
+Auto ISO  148
+Base ISO  100
+Measured EV  14.56
+Target Aperture  3.6
+Target Exposure Time  1/1244
+Slow Shutter  Off
+Shot Number In Continuous Burst  0
+Optical Zoom Code  3
+Canon Shot Info 0x000b  0
+Canon Shot Info 0x000c  0
+Flash Guide Number  0
+Flash Exposure Compensation  0
+Auto Exposure Bracketing  Off
+AEB Bracket Value  0
+Control Mode  Camera Local Control
+Focus Distance Upper  65.53 m
+Focus Distance Lower  0 m
+F Number  3.5
+F Number  3.6
+Exposure Time  1/1218
+Bulb Duration  0
+Canon Shot Info 0x0019  11
+Camera Type  Compact
+Auto Rotate  None
+ND Filter  Off
+Self Timer 2  0
+Canon Shot Info 0x001e 〜 0x0020  0 (3 times)
+Flash Output  0
+Canon Image Type  IMG:PowerShot A2100 IS JPEG
+Canon Firmware Version  Firmware Version 1.00
+File Number  100-1441
+Owner Name  LoonY
+Canon Camera Info Power Shot 2 0x0000  5
+Canon Camera Info Power Shot 2 0x0002  411
+Canon Camera Info Power Shot 2 0x0003 〜 0x0005  0 (3 times)
+Canon Camera Info Power Shot 2 0x0008  56
+Canon Camera Info Power Shot 2 0x0009 〜 0x000c  0 (4 times)
+Canon Camera Info Power Shot 2 0x000d  621
+Canon Camera Info Power Shot 2 0x000e  816
+Canon Camera Info Power Shot 2 0x000f  -91
+Canon Camera Info Power Shot 2 0x0010  0
+Canon Camera Info Power Shot 2 0x0011  0
+Canon Camera Info Power Shot 2 0x0012  -3
+Canon Camera Info Power Shot 2 0x0013  52
+Canon Camera Info Power Shot 2 0x0014  1
+Canon Camera Info Power Shot 2 0x0015  -2
+Canon Camera Info Power Shot 2 0x0016  35
+Canon Camera Info Power Shot 2 0x0017  0
+Rotation  0
+Canon Camera Info Power Shot 2 0x0019  76
+Canon Camera Info Power Shot 2 0x001a  0
+Canon Camera Info Power Shot 2 0x001b  918
+Canon Camera Info Power Shot 2 0x001c  866
+Canon Camera Info Power Shot 2 0x001d  866
+Canon Camera Info Power Shot 2 0x001e  349
+Canon Camera Info Power Shot 2 0x001f  1,085
+Canon Camera Info Power Shot 2 0x0020  -91
+Canon Camera Info Power Shot 2 0x0021  0
+Canon Camera Info Power Shot 2 0x0022  0
+Canon Camera Info Power Shot 2 0x0023  866
+Canon Camera Info Power Shot 2 0x0024  866
+Canon Camera Info Power Shot 2 0x0025  0
+Canon Camera Info Power Shot 2 0x0026  0
+Canon Camera Info Power Shot 2 0x0027  6
+Canon Camera Info Power Shot 2 0x0028  0
+Canon Camera Info Power Shot 2 0x0029  5
+Canon Camera Info Power Shot 2 0x002a 〜 0x0032  0 (9 times)
+Canon Camera Info Power Shot 2 0x0033  56
+Canon Camera Info Power Shot 2 0x0034  1,024
+Canon Camera Info Power Shot 2 0x0035  1,024
+Canon Camera Info Power Shot 2 0x0036  187
+Canon Camera Info Power Shot 2 0x0037  531
+Canon Camera Info Power Shot 2 0x0038 〜 0x003d  0 (6 times)
+Canon Camera Info Power Shot 2 0x003e  214
+Canon Camera Info Power Shot 2 0x003f  0
+Canon Camera Info Power Shot 2 0x0040  192
+Canon Camera Info Power Shot 2 0x0041  534
+Canon Camera Info Power Shot 2 0x0042 〜 0x0047  0 (6 times)
+Canon Camera Info Power Shot 2 0x0048 〜 0x004a  1024 (3 times)
+Canon Camera Info Power Shot 2 0x004b  1,280
+Canon Camera Info Power Shot 2 0x004c  8
+Canon Camera Info Power Shot 2 0x004d  192
+Canon Camera Info Power Shot 2 0x004e  534
+Canon Camera Info Power Shot 2 0x004f  -4
+Canon Camera Info Power Shot 2 0x0050  1,005
+Canon Camera Info Power Shot 2 0x0051  1,426
+Canon Camera Info Power Shot 2 0x0052  1,683
+Canon Camera Info Power Shot 2 0x0053  1,005
+Canon Camera Info Power Shot 2 0x0054  100
+Canon Camera Info Power Shot 2 0x0055  0
+Canon Camera Info Power Shot 2 0x0056  0
+Canon Camera Info Power Shot 2 0x0057  1
+Canon Camera Info Power Shot 2 0x0058  621
+Canon Camera Info Power Shot 2 0x0059  816
+Canon Camera Info Power Shot 2 0x005a  918
+Canon Camera Info Power Shot 2 0x005b  659
+Canon Camera Info Power Shot 2 0x005c  -91
+Canon Camera Info Power Shot 2 0x005d  3
+Canon Camera Info Power Shot 2 0x005e  0
+Canon Camera Info Power Shot 2 0x005f  511
+Canon Camera Info Power Shot 2 0x0060  0
+Canon Camera Info Power Shot 2 0x0061  0
+Canon Camera Info Power Shot 2 0x0062  564
+Canon Camera Info Power Shot 2 0x0063  0
+Canon Camera Info Power Shot 2 0x0064  0
+Canon Camera Info Power Shot 2 0x0065  599
+Canon Camera Info Power Shot 2 0x0066  658
+Canon Camera Info Power Shot 2 0x0067  714
+Canon Camera Info Power Shot 2 0x0068  773
+Canon Camera Info Power Shot 2 0x0069  851
+Canon Camera Info Power Shot 2 0x006a  0
+Canon Camera Info Power Shot 2 0x006b  0
+Canon Camera Info Power Shot 2 0x006c  12,752
+Canon Camera Info Power Shot 2 0x006d  559
+Canon Camera Info Power Shot 2 0x006e  558
+Canon Camera Info Power Shot 2 0x006f  556
+Canon Camera Info Power Shot 2 0x0070  556
+Canon Camera Info Power Shot 2 0x0071  557
+Canon Camera Info Power Shot 2 0x0072 〜 0x0075  556 (4 times)
+Canon Camera Info Power Shot 2 0x0076  555
+Canon Camera Info Power Shot 2 0x0077  65,535
+Canon Camera Info Power Shot 2 0x0078 〜 0x007a  0 (3 times)
+Canon Camera Info Power Shot 2 0x007b  1,336
+Canon Camera Info Power Shot 2 0x007c  250
+Canon Camera Info Power Shot 2 0x007d  309
+Canon Camera Info Power Shot 2 0x007e  58
+Canon Camera Info Power Shot 2 0x007f  1,029
+Canon Camera Info Power Shot 2 0x0080  193
+Canon Camera Info Power Shot 2 0x0081  240
+Canon Camera Info Power Shot 2 0x0082  45
+Canon Camera Info Power Shot 2 0x0083  0
+Canon Camera Info Power Shot 2 0x0084  0
+Canon Camera Info Power Shot 2 0x0085  3
+Canon Camera Info Power Shot 2 0x0086  3
+Canon Camera Info Power Shot 2 0x0087  8
+Canon Camera Info Power Shot 2 0x0088 〜 0x008d  0 (6 times)
+Canon Camera Info Power Shot 2 0x008e  310
+Canon Camera Info Power Shot 2 0x008f  -1443
+Canon Camera Info Power Shot 2 0x0090  0
+Canon Camera Info Power Shot 2 0x0091  65,535
+Canon Camera Info Power Shot 2 0x0092  0
+Canon Camera Info Power Shot 2 0x0093  -3072
+Canon Camera Info Power Shot 2 0x0094  133
+Canon Camera Info Power Shot 2 0x0095  614
+Canon Camera Info Power Shot 2 0x0096  499
+Canon Camera Info Power Shot 2 0x0097  0
+Canon Camera Info Power Shot 2 0x0098  501
+Canon Camera Info Power Shot 2 0x0099  0
+Canon Camera Info Power Shot 2 0x009a  0
+Canon Camera Info Power Shot 2 0x009b  192
+Canon Camera Info Power Shot 2 0x009c 〜 0x009e  256 (3 times)
+Canon Camera Info Power Shot 2 0x009f  0
+Canon Camera Info Power Shot 2 0x00a0  0
+Canon Camera Info Power Shot 2 0x00a1  96
+Canon Camera Info Power Shot 2 0x00a2  0
+Canon Camera Info Power Shot 2 0x00a3  0
+Camera Temperature  27 C
+Canon Camera Info Power Shot 2 0x00a5  11
+Canon Camera Info Power Shot 2 0x00a6  942,219,557
+Canon Model ID  PowerShot A2100 IS
+AF Info Size  96
+AF Area Mode  Multi-point AF or AI AF
+Num AF Points  9
+Valid AF Points  9
+Canon Image Width  4,000
+Canon Image Height  3,000
+AF Image Width  100
+AF Image Height  100
+AF Area Widths  18 18 18 18 18 18 18 18 18
+AF Area Heights  18 18 18 18 18 18 18 18 18
+AF Area X Positions  -18 0 18 -18 0 18 -18 0 18
+AF Area Y Positions  -18 -18 -18 0 0 0 18 18 18
+AF Points In Focus  4
+Canon AF Info 2 0x000d  0 0
+Primary AF Point  4
+Thumbnail Image Valid Area  0 0 0 0
+Canon 0x0018  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0[...]
+Canon 0x0019  1
+Date Stamp Mode  Off
+Canon My Colors 0x0000  32
+Canon My Colors 0x0001  1
+My Color Mode  Off
+Canon My Colors 0x0003 〜 0x0006  2 (4 times)
+Canon My Colors 0x0007 〜 0x000f  0 (9 times)
+Firmware Revision  1.00 rev 1.00
+Canon 0x001f  138 1 0 4 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0[...]
+Canon 0x0022  416 0 0 16 8 1 1 640 480 0 0 0 0 0 8 384 0 0 0 0 0 0 0 [...]
+Categories  (none)
+Intelligent Contrast  Off
+Image Unique ID  b806afe6b9e4a670d8f06c85b350a5e0
+VRD Offset  0
+Canon 0x002d  0
+White Balance  Auto
+ISO  150
+
+
+File Type  JPEG
+MIME Type  image/jpeg
+Exif Byte Order  Little-endian (Intel, II)
+Encoding Process  Baseline DCT, Huffman coding
+Bits Per Sample  8
+Color Components  3
+File Size  2.7 MB
+Image Size  4,000 × 3,000
+Y Cb Cr Sub Sampling  YCbCr4:2:2 (2 1)
+
+Aperture  3.50
+Drive Mode  Single-frame Shooting
+ISO  148
+Lens  6.4 - 38.4 mm
+Scale Factor To 35 mm Equivalent  5.6
+Shooting Mode  Full auto
+Shutter Speed  1/1250
+Thumbnail Image  (4,482 bytes binary data)
+Circle Of Confusion  0.005 mm
+Field Of View  40.0 deg
+Focal Length  8.8 mm (35 mm equivalent: 49.4 mm)
+Hyperfocal Distance  4.13 m
+Lens  6.4 - 38.4 mm (35 mm equivalent: 35.9 - 215.5 mm)
+Lens ID  Unknown 6-38mm
+Light Value  13.2
