@@ -1,13 +1,13 @@
 .blog-theme-class {
   margin-top:0.3%;
   padding:3%;
-  background:#008cba;
+  background:#1abc9c;
   .jumb-bot {
-    background:#008cba;
-    
+    background:#1abc9c;
+
   }
   .jumbotron{
-    background:#008cba;
+    background:#1abc9c;
     h1 {
       color :#fff;
     }
@@ -15,14 +15,27 @@
       color:#fff;
     }
   }
+  .jumbotron-logo {
+    float: left;
+    margin: 20px 60px 20px -40px;
+    width: 200px;
+  }
 }
 .blog-post-small {
-  border-bottom: #008CBA 1px dashed;
+  // border-bottom: #1abc9c 1px dashed;
   text-align: justify;
   padding: 10px;
   p {
     font-size: 14.43px;
   }
+}
+
+.blog-post-header {
+    margin-bottom: 15px;
+}
+
+.post-header {
+    margin: 0 0 25px 10px;
 }
 
 .navbar {
@@ -35,7 +48,7 @@
 .jumb-bot-jumbu {
   margin: 0px;
   padding-top: 15px;
-  padding-bottom: 20px;
+  padding-bottom: 10px;
   background: #eee;
   p {
     padding-top: 13px;
@@ -54,6 +67,7 @@
   margin-top: 10px;
 }
 .author_block{
+  float: right;
   padding:2%;
   p{
     line-height: 44px;
@@ -61,7 +75,7 @@
   }
   ul{
     display: block;
-    float:left;
+    float: right;
     li{
       float:left;
       display:block;
@@ -161,4 +175,8 @@
   .left-syms li a span {
     display: block;
   }
+}
+
+.fa-like-image {
+    margin-top: -3px;
 }

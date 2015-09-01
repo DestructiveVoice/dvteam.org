@@ -9,12 +9,13 @@
       </div>
       <div class="navbar-collapse collapse navbar-inverse-collapse">
         <ul class="nav navbar-nav">
+          <li><a href="{{ site.baseurl }}/">Blog</a></li>
           {% for page in site.pages %}
             {% if page.title %}
               <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
             {% endif %}
           {% endfor %}
-          
+
 <!--           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<b class="caret"></b></a>
             <ul class="dropdown-menu">
@@ -26,10 +27,9 @@
             </ul>
           </li>
  -->        </ul>
-       
+
         <ul class="nav navbar-nav navbar-right left-syms">
-          <li><a href="https://facebook.com/{{site.fb_username}}" target="_blank"><i class="fa fa-facebook-square"></i> <span>Facebook</span></a></li>
-          <li><a href="http://github.com/{{ site.github_username}}" target="_blank"><i class="fa fa-github"></i> <span>Github</span></a></li>
+          <li><a href="https://ctftime.org/team/7527" target="_blank"><img class="fa-like-image" src="{{ site.baseurl }}/images/ctftime_icon.png" /> <span>CTFTime</span></a></li>
           <li><a href="//twitter.com/{{site.twitter_username}}" target="_blank"><i class="fa fa-twitter"></i> <span>Twitter</span></a></li>
           <li><a href="{{ "/atom.xml" | prepend: site.baseurl | prepend: site.url }}" target="_blank"><i class="fa fa-rss"></i> <span>RSS Feed</span></a></li>
         </ul>
