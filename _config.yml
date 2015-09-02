@@ -2,13 +2,14 @@
 
 title: Destructive Voice
 description: a CTF team from Ural Federal University, Yekaterinburg
-email: pranav@maangalabs.com
+email: destructivevoice@gmail.com
 baseurl: ''
 favicon: /favicon.png
 
 permalink: /:categories
 
-twitter_username: pranavrajs
+twitter_username: dvteam_org
+ctftime_team_id: 7527
 
 # google analytics
 # google_analytics_id : UA-53386152-2
