@@ -1,6 +1,6 @@
 .blog-theme-class {
   margin-top:0.3%;
-  padding:3%;
+  padding: 3% 3% 4%;
   background:#1abc9c;
   .jumb-bot {
     background:#1abc9c;
@@ -15,12 +15,23 @@
       color:#fff;
     }
   }
-  .jumbotron-logo {
-    float: left;
-    margin: 20px 60px 20px -40px;
-    width: 200px;
+  .jumbotron-logo-container {
+    display: block;
+    padding-left: 80px;
+    img {
+      display: block;
+      margin: 40px auto 0;
+      width: 200px;
+    }
   }
 }
+
+@media (max-width: 768px) {
+  .jumbotron-logo-container {
+    padding-left: 0 !important;
+  }
+}
+
 .blog-post-small {
   // border-bottom: #1abc9c 1px dashed;
   text-align: justify;

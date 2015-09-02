@@ -3,35 +3,29 @@ layout: default
 index: true
 ---
 
-
-        <div class="row">
-            <div class="col-md-2"></div>
-            <div class="col-md-8">
-              <!-- Blog Post Links -->
-              <div class="blog-post-small">
-                {% for post in site.posts %}
-                  <div class="blog-post-preview">
-                    <div class="blog-post-header">
-                      <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-                      <p><i class="fa fa-calendar"></i> &nbsp;{{ post.date | date: "%b %-d, %Y" }}
-                        {% if site.disqus_short_name and page.comments != false and site.disqus_show_comment_count == true %}
-                        | <a href="{% if page.index %}{{ post.url | prepend: site.baseurl }}{% endif %}#disqus_thread">Comments</a>
-                        {% endif %}
-                      </p>
-                    </div>
-
-                    {% if post.content contains '<!-- more -->' %}
-                      <p>{{ post.content | split:'<!-- more -->' | first }}
-                        <br />
-                        <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary btn-sm button-read-more">Read More</a>
-                      </p>
-                    {% else %}
-                      {{ post.content }}
-                    {% endif %}
-                  </div>
-                {% endfor %}
-              </div>
-              <!-- End Blog Post Links -->
-            </div>
-            <div class="col-md-2"></div>
-         </div>
+<div class="row">
+  <div class="col-md-2"></div>
+  <div class="col-md-8">
+    <div class="blog-post-small">
+      {% for post in site.posts %}
+      <div class="blog-post-preview">
+        <div class="blog-post-header">
+          <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+          <p><i class="fa fa-calendar"></i> &nbsp;{{ post.date | date: "%b %-d, %Y" }} {% if site.disqus_short_name and page.comments != false and site.disqus_show_comment_count == true %} | <a href="{% if page.index %}{{ post.url | prepend: site.baseurl }}{% endif %}#disqus_thread">Comments</a>          {% endif %}
+          </p>
+        </div>
+        {% if post.content contains '<!-- more -->' %}
+        <p>
+          {{ post.content | split: '<!-- more -->' | first }}
+          <br />
+          <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-primary btn-sm button-read-more">Read More</a>
+        </p>
+        {% else %}
+        {{ post.content }}
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  <div class="col-md-2"></div>
+</div>
