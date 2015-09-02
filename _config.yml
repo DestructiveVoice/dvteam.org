@@ -3,7 +3,7 @@
 title: Destructive Voice
 description: a CTF team from Ural Federal University, Yekaterinburg
 email: pranav@maangalabs.com
-baseurl: /dvteam.org
+baseurl: ''
 favicon: /favicon.png
 
 permalink: /:categories
