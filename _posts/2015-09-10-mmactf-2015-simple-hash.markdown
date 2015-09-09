@@ -56,7 +56,7 @@ Now we can realize that the `calc_hash` operates with `long long`s and returns a
 
 #### Functions `_Z2mmx` and `___moddi3`
 
-Another question is what functions `_Z2mmxx` and `___moddi3` (note that they get and return `long long`s) do. The purpose of the last function (it's built-in) can be understood from its name. The purpose of the `_Z2mmxx` is less clear. Its code is placed in the executable; we can open it, but it's too big to analyze. May be this function implement some simple arithmetic with `long long`s too?
+Another question is what functions `_Z2mmxx` and `___moddi3` (note that they get and return `long long`s) do. The purpose of the last function (it's built-in) can be understood from its name. The purpose of the `_Z2mmxx` is less clear. Its code is placed in the executable; we can open it, but it's too big to analyze. Maybe this function implements some simple arithmetic with `long long`s too?
 
 We can check our assumptions by an experiment. Let's open gdb, load the executable and run these functions. It's important to specify arguments types (initially gdb doesn't know that it's needed to pass to the function four 32-bit values, not two ones). Of course, we also have a disparity with the return type, but it's enough to get only lower 32 bits if we're sure that the number isn't big and upper bits are zeros:
 
